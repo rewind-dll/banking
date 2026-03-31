@@ -1,0 +1,2 @@
+-- This file is replaced by server.lua
+-- See server/server.lua for the banking implementation

@@ -1,0 +1,1 @@
+@layer utilities{.custom-scrollbar::-webkit-scrollbar{width:6px}.custom-scrollbar::-webkit-scrollbar-track{background:0 0}@apply bg-zinc-800 rounded-full;@apply bg-zinc-700;}body{user-select:none;overflow:hidden;background-color:#0000;margin:0}
